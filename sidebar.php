@@ -1,3 +1,4 @@
+<?php /* ?>
 						<div class="sidebar-widgets-wrap">
 
 							<div class="widget widget_links clearfix">
@@ -187,3 +188,4 @@
 								</form>
 							</div>
 						</div>
+<?php */ ?>
