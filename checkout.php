@@ -22,17 +22,10 @@
 
 				<div class="container clearfix">
 
-					<div class="col_half">
+					<div class="text-center">
 						<div class="panel panel-default">
 							<div class="panel-body">
 								Returning customer? <a href="login-register.html">Click here to login</a>
-							</div>
-						</div>
-					</div>
-					<div class="col_half col_last">
-						<div class="panel panel-default">
-							<div class="panel-body">
-								Have a coupon? <a href="login-register.html">Click here to enter your code</a>
 							</div>
 						</div>
 					</div>

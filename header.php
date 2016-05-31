@@ -98,8 +98,6 @@
 
 						<ul>
 							<li class="current"><a href="index.php"><div>Home</div></a></li>
-							<li><a href="shop.php"><div>Shop 1</div></a></li>
-							<li><a href="shop2.php"><div>Shop 2</div></a></li>
 							<li><a href="single-product.php"><div>Single Product</div></a></li>
 							<li><a href="cart.php"><div>Cart</div></a></li>
 							<li><a href="checkout.php"><div>Checkout</div></a></li>
