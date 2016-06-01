@@ -101,6 +101,7 @@
 							<li><a href="single-product.php"><div>Single Product</div></a></li>
 							<li><a href="cart.php"><div>Cart</div></a></li>
 							<li><a href="checkout.php"><div>Checkout</div></a></li>
+							<li><a href="login-register.php"><div>Login</div></a></li>
 						</ul>
 
 						<!-- Top Cart
