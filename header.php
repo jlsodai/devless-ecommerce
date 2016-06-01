@@ -31,7 +31,10 @@
 	<title>Home - Corporate Layout | Canvas</title>
 
 	<style>
-
+		#header .container {
+			border-left: 1px solid #eee;
+			border-right: 1px solid #eee;
+		}
 		.revo-slider-emphasis-text {
 			font-size: 64px;
 			font-weight: 700;
